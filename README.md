@@ -14,3 +14,16 @@ Exploring trends such as tweet frequency, engagement, and user activity
 Visualizing results using charts and graphs
 
 Extracting meaningful insights from the data
+Technologies Used
+
+Python
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+Seaborn
+
+Jupyter Notebook
